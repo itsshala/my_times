@@ -38,8 +38,9 @@ nav {
 		}
 .main-content {
 	display: flex;
-	position: relative;
-	top: 140px;
+	width: 1232px;
+	margin: 0 auto;
+	padding-top: 116px;
 }
 .column {
     display: flex;
